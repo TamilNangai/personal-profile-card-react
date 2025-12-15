@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -15,3 +16,17 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 "# personal-profile-card-react" 
+=======
+# Personal Profile Card (React)
+
+A simple React application that allows users to enter their name, age, and city and see a live profile card.
+
+## Features
+- Live preview
+- useState for state management
+- Light/Dark theme toggle
+
+## Tech Stack
+- React
+- Tailwind CSS
+>>>>>>> 406d1cff18db20633476829cc99c4d61fedb99cb
